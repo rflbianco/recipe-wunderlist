@@ -1,0 +1,13 @@
+{
+  "id": "wunderlist",
+  "name": "Wunderlist",
+  "version": "0.1.0",
+  "description": "Franz Recipe (https://github.com/meetfranz/plugins) for Wunderlist",
+  "main": "index.js",
+  "author": "Rafael Bianco <rafa.bianco@gmail.com",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://wunderlist.com/login",
+    "hasIndirectMessages": false
+  }
+}
